@@ -1,6 +1,6 @@
 Tạo 1 class SinhVien gồm các thuộc tính: id , họ, tên, điểm, giới tính và
 các phương thức thực hiện:
-* Phương thức khởi tạo SinhVien () tạo 1 SinhVien trống
+* Phương thức khởi tạo SinhVien () tạo 1 SinhVien với thuộc tính mặc định nao no tự nghi
 * Phương thức nhập nhap() lấy thông tin SinhVien từ bàn phím
 * Phương thức hiển thị hienthi() 1 SinhVien ra màn hình
 * Phương thức đọc docfile để tạo 1 SinhVien từ file sinhvien_id.dat
