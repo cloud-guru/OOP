@@ -25,3 +25,5 @@ Tạo class DSSinhVien sử dụng class SinhVien ở , gồm  thuộc tính m�
 Viết hàm main khởi tạo đối tượng DSSinhvien . Lần lượt chạy qua các phương thức cua DSSinhVien trên (input agurament cho mỗi phương thức tự nghĩ). sử dụng chức năng debug của pycharm để kiểm tra hoạt động.
 
 Không giới hạn thư viện sử dụng.VD sắp xếp, so sánh nếu tìm đc thư viện và dùng vào càng tốt.
+
+Nếu lỗi thì in lỗi ra màn hình và kết thúc phương thức đó
