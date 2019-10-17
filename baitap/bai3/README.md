@@ -9,7 +9,7 @@ các phương thức thực hiện:
 Lưu ý: tự xác định cấu trúc file sinhvien.dat
 * Nạp Chồng phương thức khởi tạo để có thể tạo SinhVien với input từ bàn phím . 
 
-Luu y: cứ làm đúng ý nghĩa là đc. miễn là cho 2 cach tạo đối tượng khác nhau là dc . Có the co nhiều cách khác nhau.
+Luu y: cứ làm đúng ý nghĩa , miễn là cho 2 cach tạo đối tượng khác nhau là dc . Có the co nhiều cách khác nhau.
 * Phương thức sosanhTen(SinhVien sv) so sánh 2 họ tên với nhau (trả về 0 nếu
 bằng nhau, -1 nếu sv nhỏ hơn, 1 nếu sv lớn hơn)
 * Phương thức sosanh() kiểm tra 2 sinh viên có trùng tất cả thông tin với nhau
