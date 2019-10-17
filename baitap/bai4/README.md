@@ -1,7 +1,7 @@
 Class TracNghiem có thuộc tính là: câu hỏi, 4 phương án trả lời, đáp án, trả lời
 của người chơi. 
 Class DSTracNghiem có thuộc tính là: mảng TracNghiem, số câu trả lời đúng.
-* Class DSTracNghiem: lấy câu hỏi từ sqlalchemy . cấu trúc DB tự nghĩ.  Phương thức kiemtra() để kiểm tra người chơi với từng câu hỏi trong có đúng không và đếm số câu trả lời đúng.
+* Class DSTracNghiem: lưu, lấy câu hỏi từ sqlalchemy . cấu trúc DB tự nghĩ.  Phương thức kiemtra() để kiểm tra người chơi với từng câu hỏi trong có đúng không và đếm số câu trả lời đúng.
 * Class DSTracNghiem: Phương thức phanloai(): nếu số câu trả lời đúng >80%:
 xuat sac;
   - nếu số câu trả lời đúng >=60%: “Rat tot”
