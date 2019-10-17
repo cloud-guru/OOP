@@ -10,7 +10,7 @@ xuat sac;
 Khởi tạo đối tượng sinhvien (bai3) , DSTracNghiem, 
 Tự thiết kế kịch bản sử dụng cho người dùng. 
 Ví dụ:
-
+```
 Chào G, bắt đầu làm bài nhé:
 =======================================
 Khoa CNTT cua PTIT hoc may nam?
@@ -38,4 +38,5 @@ dap an cua ban: 2
 =========================================
 Kiem tra xong.
 Rat tot, tra loi dung 69 %
+```
 
