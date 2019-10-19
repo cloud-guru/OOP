@@ -11,7 +11,7 @@ Khởi tạo đối tượng sinhvien (bai3) , DSTracNghiem,
 Tự thiết kế kịch bản sử dụng cho người dùng. 
 Ví dụ:
 ```
-Chào G, bắt đầu làm bài nhé:
+Chào ban <name sinh vien> , bắt đầu làm bài nhé:
 =======================================
 Khoa CNTT cua PTIT hoc may nam?
 * 3 nam 
