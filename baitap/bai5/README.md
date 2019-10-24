@@ -19,6 +19,6 @@ Cây kế thừa đã được 1 thằng bựa nào đó thiết kế như này,
   * Định  nghĩa  lại  hàm credit và debit để trừ thêm phí giao dịch từ số dư tài khoản khi mỗi giao dịch được thực hiện thành công
   * Hàm debitcủa CheckingAccount chỉ tính phí giao dịch KHI VÀ CHỈ KHI tiền thực sựđược rút (khi mà  số  dư  tài  khoản  lớn  hơn  số  tiền  định  rút).  (Gợi  ý:  định  nghĩa  hàm debitcủa Accountcó kiểu trả và là boolđể xác định tiềnđã được rút thành công hay chưa. Sau đó, sử dụng giá trị trả về của hàm này để xác định xem có tính phí giao dịch không)
 
-Giám đốc ngân hàng éo tin bạn làm đúng, yêu cầu bạn thực hiện:
+Giám đốc ngân hàng méo tin bạn làm đúng, yêu cầu bạn thực hiện:
 
 Sau khi định nghĩa các class trên, viết chương trình tạo các đối tượng của từng class và  kiểm  tra  các  hàm  thành  viên.  Ngoài  ra,  thêm  1  đối  tượng SavingsAccountthực hiện: gọi hàm calculateInterest, truyền giá trị trả về của hàm này vào hàm credit.
