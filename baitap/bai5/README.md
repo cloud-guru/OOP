@@ -9,11 +9,11 @@ Cây kế thừa đã được 1 thằng bựa nào đó thiết kế như này,
   * 1 hàm tạo nhận  giá trị để khởi tạo cho số dư tài khoản. Hàm tạo cần kiểm tra xem giá trị khởi tạo này phải >=0.0 . Nếu  không,  số  dư  tài  khoản  sẽ được  khởi  tạo  =  0.0  và  hàm  tạo  cần  hiển  thị  1  thông báo lỗi là giá trị khởi tạo không hợp lệ.
   * Hàm Credit thêm 1  lượng  tiền  vào  số  dư  hiện  tại.  Hàm Debit sẽ  trừ  bớt  1  lượng  tiền  và  cần  đảm  bảo lượng tiền trừ bớt không vượt quá số dư tài khoản. Nếu vi phạm, số dư tài khoản cần được  giữ  nguyên  (như  trước  lúc  bị  trừ)  và  hàm  cần  hiển  thị  1  thông  báo  lỗi  “không được rút số tiền vượt quá số dư hiện có”.
   * Hàm getBalancesẽ trả về số dư hiện tại.
-Class SavingAccount:
+* Class SavingAccount:
   * thêm 1 thuộc tính kiểu doubleđể lưu lãi suất (dưới dạng %).
   * Hàm tạo cần nhận 1 thêm giá  trị  khởi  tạo  cho  cho  lãi  suất.
   * hàm  public calculateInteresttrả  về  1  số  double  là  lãi  suất thu được bằng cách nhân lãi suất với số dư
-Classs CheckingAccount:
+* Classs CheckingAccount:
   * thêm  một  thuộc  tính biểu  diễn  phí  giao  dịch  phải  trả  cho  mỗi  giao  dịch
   * Hàm  tạo  của CheckingAccount cần nhận thêm 1 giá trị khởi tạo cho  phí  giao  dịch.
   * Định  nghĩa  lại  hàm credit và debit để trừ thêm phí giao dịch từ số dư tài khoản khi mỗi giao dịch được thực hiện thành công
