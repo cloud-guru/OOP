@@ -23,4 +23,4 @@ Giám đốc ngân hàng méo tin bạn làm đúng, yêu cầu bạn thực hi�
 
 Sau khi định nghĩa các class trên, viết chương trình tạo các đối tượng của từng class và  kiểm  tra  các  hàm  thành  viên.  Ngoài  ra,  thêm  1  đối  tượng SavingsAccountthực hiện: gọi hàm calculateInterest, truyền giá trị trả về của hàm này vào hàm credit.
 
-Ồ, bạn đã làm đúng hết à. Lão vẫn muốn quịt tiền công bạn do bạn không có interface. lão chê bạn gà... Hãy chứng minh bạn thông minh đi.
+Ồ, bạn đã làm đúng hết à. Lão vẫn muốn quịt tiền công bạn do bạn không có interface, lão chê bạn gà... Hãy nghĩ cách chứng minh bạn biết interface là cái gì đi.
